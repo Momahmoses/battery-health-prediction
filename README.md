@@ -1,9 +1,9 @@
-# Battery Health Prediction — Professional ML Pipeline
+# Battery Health Prediction, Professional ML Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Three-task ML pipeline for battery health monitoring: State of Health (SOH) regression, Remaining Useful Life (RUL) regression, and Fault Classification — applicable to EV manufacturing, Battery Management Systems, and grid storage.
+Three-task ML pipeline for battery health monitoring: State of Health (SOH) regression, Remaining Useful Life (RUL) regression, and Fault Classification, applicable to EV manufacturing, Battery Management Systems, and grid storage.
 
 ---
 
@@ -62,5 +62,5 @@ python predict.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
